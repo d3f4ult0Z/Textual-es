@@ -1,0 +1,5 @@
+/* Estilo de publicidad */
+.container > .publicidad{
+    height: 90px;
+    background-color: red;
+}
