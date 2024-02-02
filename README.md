@@ -20,7 +20,7 @@ Copiar y pegar los archivos en la siguiente dirección de tu servidor con Wordpr
 httpdocs/wp-content/themes/
 
 ```
-$ git clone https://github.com/d3f4ult0Z/ElQuintoSol-Web.git
+$ git clone https://github.com/d3f4ult0Z/Textual-es.git
 ```
 ## FAQs
 ***
